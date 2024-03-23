@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Meu nome é Fabiano Pein, trabalhei por muitos anos na gestão do sistema da qualidade, mas por conta do meu forte interesse em tecnologia da informação, decici fazer essa migração de área. Atualmente trabalho com suporte de TI na T-Systems do Brasil, onde atendo clientes alemães em seus sistemas, nos idiomas alemão e inglês.
+
+Sou Programador Front End, onde estou aprendendo e criando projetos em HTML e CSS, e ainda, me desenvolvendo em JavaScript e React.
+
+<a href="https://www.linkedin.com/in/fabianopein/" target=”_blank”> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /> </a>
+
 <!--
 **FabianoPein/FabianoPein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
